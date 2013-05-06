@@ -10,7 +10,8 @@ namespace JustTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hellow git hub");
+            Console.WriteLine("Hello git hub");
+            Console.WriteLine("New line");
         }
     }
 }
